@@ -1,2 +1,2 @@
-# vikialkot
-Ezek a munkáim, fogadd szeretettel
+# math_hw
+Important lesson
